@@ -94,7 +94,7 @@ function Sidebar() {
             class="btn btn-success btn-sm"
             href="https://startbootstrap.com/theme/sb-admin-pro"
           >
-            Upgrade to Pro!
+            Upgrade to Pro!!!
           </a>
         </div>
       </ul>
